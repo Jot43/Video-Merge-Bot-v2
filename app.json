@@ -7,8 +7,8 @@
 		"merge",
 		"bot"
 	],
-	"repository": "https://github.com/jishusinha/Video-Merge-Bot",
-	"website": "https://telegram.dog/Madflix_Bots",
+	"repository": "https://github.com/Jot43/Video-Merge-Bot-v2",
+	"website": "https://telegram.me/NordBotzOwner",
 	"stack": "container",
 	"env": {
 		"CONFIG_FILE_URL": {
